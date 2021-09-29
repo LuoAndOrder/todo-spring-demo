@@ -8,6 +8,8 @@ public class TodoDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TodoDemoApplication.class, args);
+
+		// TODO: Keep following this tutorial https://github.com/rupakg/aws-java-products-api/blob/master/src/main/java/com/serverless/dal/Product.java
 	}
 
 }
